@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23305931.svg)](https://doi.org/10.5281/zenodo.23305931) [![ORCID](https://img.shields.io/badge/ORCID-0009--0002--6006--0796-green?style=for-the-badge)](https://orcid.org/0009-0002-6006-0796)
 # GTI v2.1 — Eternal Instability: Stability as the Limit of Finite Dwell Times
 
 **One testable signature. No regulator, no stabilizing field.**
